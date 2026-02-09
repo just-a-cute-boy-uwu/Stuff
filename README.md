@@ -1,4 +1,4 @@
-# EDIT
+# README | t.me/flylegit for support
 - Do not distribute this without forks, if found, your github account may be suspended according to license
 - DO NOT USE THIS, IF YOU WANT ONE, check branch 'light' (https://github.com/NoSpacesFlies/Botnet/tree/Light) for good one
 - my discord: bombmanalt | telegram: @FuckIsra3l
